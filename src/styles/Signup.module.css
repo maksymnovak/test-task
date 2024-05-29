@@ -1,0 +1,22 @@
+.submit {
+  text-align: center;
+  margin-top: 15vh;
+}
+
+.login_btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 50%;
+}
+
+.form_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,24 @@
+.input-container {
+  /* width: 100%; */
+  margin-bottom: 10px;
+}
+
+.input-container input {
+  width: 93%;
+  height: 27px;
+  border-radius: 8px;
+  background-color: rgb(203, 203, 203);
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.input-container input.input-error {
+  border-color: red;
+}
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}

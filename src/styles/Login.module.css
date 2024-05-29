@@ -1,0 +1,16 @@
+.login_btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 50%;
+}
+
+.form_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  margin-top: 25%;
+  width: 80%;
+}
